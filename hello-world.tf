@@ -1,3 +1,3 @@
-# output hello-world{
-#     value = "Hello world"
-# }
+output hello-world{
+    value = "Hello world"
+}
